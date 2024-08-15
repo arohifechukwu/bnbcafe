@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/bnbcapp/static/css/main.d00fb3a1.css",
-    "main.js": "/bnbcapp/static/js/main.6925a9d9.js",
-    "static/media/ife11.jpeg": "/bnbcapp/static/media/ife11.e1159687ed95ec02989f.jpeg",
-    "static/media/ife6.jpeg": "/bnbcapp/static/media/ife6.b7928bff7aa654e0f2e8.jpeg",
-    "static/media/ife9.jpeg": "/bnbcapp/static/media/ife9.84faf775ce55eb60e60f.jpeg",
-    "static/media/banner.jpg": "/bnbcapp/static/media/banner.141144809b9b1593095a.jpg",
-    "static/media/ife7.jpeg": "/bnbcapp/static/media/ife7.7f3e62df3c8a4261b1e7.jpeg",
-    "static/media/ife5.jpeg": "/bnbcapp/static/media/ife5.23fc203c2779decd1e4c.jpeg",
-    "static/media/ife10.jpeg": "/bnbcapp/static/media/ife10.0a3d23a83d0326166346.jpeg",
-    "static/media/ife4.jpeg": "/bnbcapp/static/media/ife4.9d391b04131cad30a586.jpeg",
-    "static/media/ife12.jpeg": "/bnbcapp/static/media/ife12.0f43ec32bc3057c8917c.jpeg",
-    "static/media/ife3.jpeg": "/bnbcapp/static/media/ife3.a36c4f654af60278466a.jpeg",
-    "static/media/ife8.jpeg": "/bnbcapp/static/media/ife8.1ddca60929ac13e9c17d.jpeg",
-    "static/media/ife1.jpeg": "/bnbcapp/static/media/ife1.e776b00444fc8dd7ea63.jpeg",
-    "static/media/ife13.jpeg": "/bnbcapp/static/media/ife13.063ea445b964e154dafa.jpeg",
-    "index.html": "/bnbcapp/index.html",
-    "main.d00fb3a1.css.map": "/bnbcapp/static/css/main.d00fb3a1.css.map",
-    "main.6925a9d9.js.map": "/bnbcapp/static/js/main.6925a9d9.js.map"
+    "main.css": "/bnbcafe/static/css/main.b1fe3209.css",
+    "main.js": "/bnbcafe/static/js/main.e6b84e4f.js",
+    "static/media/ife11.jpeg": "/bnbcafe/static/media/ife11.e1159687ed95ec02989f.jpeg",
+    "static/media/ife6.jpeg": "/bnbcafe/static/media/ife6.b7928bff7aa654e0f2e8.jpeg",
+    "static/media/ife9.jpeg": "/bnbcafe/static/media/ife9.84faf775ce55eb60e60f.jpeg",
+    "static/media/banner.jpg": "/bnbcafe/static/media/banner.141144809b9b1593095a.jpg",
+    "static/media/ife7.jpeg": "/bnbcafe/static/media/ife7.7f3e62df3c8a4261b1e7.jpeg",
+    "static/media/ife5.jpeg": "/bnbcafe/static/media/ife5.23fc203c2779decd1e4c.jpeg",
+    "static/media/ife10.jpeg": "/bnbcafe/static/media/ife10.0a3d23a83d0326166346.jpeg",
+    "static/media/ife4.jpeg": "/bnbcafe/static/media/ife4.9d391b04131cad30a586.jpeg",
+    "static/media/ife12.jpeg": "/bnbcafe/static/media/ife12.0f43ec32bc3057c8917c.jpeg",
+    "static/media/ife3.jpeg": "/bnbcafe/static/media/ife3.a36c4f654af60278466a.jpeg",
+    "static/media/ife8.jpeg": "/bnbcafe/static/media/ife8.1ddca60929ac13e9c17d.jpeg",
+    "static/media/ife1.jpeg": "/bnbcafe/static/media/ife1.e776b00444fc8dd7ea63.jpeg",
+    "static/media/ife13.jpeg": "/bnbcafe/static/media/ife13.063ea445b964e154dafa.jpeg",
+    "index.html": "/bnbcafe/index.html",
+    "main.b1fe3209.css.map": "/bnbcafe/static/css/main.b1fe3209.css.map",
+    "main.e6b84e4f.js.map": "/bnbcafe/static/js/main.e6b84e4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d00fb3a1.css",
-    "static/js/main.6925a9d9.js"
+    "static/css/main.b1fe3209.css",
+    "static/js/main.e6b84e4f.js"
   ]
 }
